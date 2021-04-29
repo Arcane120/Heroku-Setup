@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Arcane120/HEROKU/",
-  "website": "https://github.com/Arcane120/HEROKU/",
+  "repository": "https://github.com/Arcane120/ARCANE-USERBOT/",
+  "website": "https://github.com/Arcane120/ARCANE-USERBOT/",
   "success_url": "https://t.me/Arcane_Bot_Support",
   "env": {
     "ENV": {
@@ -28,7 +28,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @LEGENDX22.",
+      "description": "Fill your Full name or Username like @Arcane123.",
       "value": "",
       "required": false
     },
@@ -164,7 +164,7 @@
     },
     "EMOJI_TO_DISPLAY_IN_HELP": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "😄",
+      "value": "✨",
       "required": true
     }, 
     "TZ": {
