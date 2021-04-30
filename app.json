@@ -33,12 +33,12 @@
       "required": false
     },
     "ALIVE_MSG": {
-      "description": "Set Custom awake Message When entering .awake command.",
+      "description": "Set Custom awake Message When entering .arcane command.",
       "value": "ARCANE BOT IS WORKING AND READY TO SERVE YOU MASTER",
       "required": false
     },
     "ALIVE_PHOTTO": {
-      "description": "put here any telegraph media link use .awake to show.",
+      "description": "put here any telegraph media link use .arcane to show.",
       "value": "https://telegra.ph/file/91d386b1f7db6c76abf80.jpg",
       "required": false
     },
