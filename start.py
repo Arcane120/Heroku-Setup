@@ -1,5 +1,5 @@
 from os import system # chala ja bhai
-system ("git clone https://GitHub.com/Arcane120/ArcaneOpBot && cd ArcaneOpBot && python3 -m userbot")
+system ("git clone https://GitHub.com/Arcane120/ARCANE-USERBOT && cd ARCANE-USERBOT && python3 -m userbot")
 # try af
 print("OH SYSTEM IS CRASHED")
 system("python3 -m userbot")
