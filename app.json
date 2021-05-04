@@ -33,12 +33,12 @@
       "required": false
     },
     "ALIVE_MSG": {
-      "description": "Set Custom awake Message When entering .arcane command.",
+      "description": "Set Custom awake Message When entering .alive command.",
       "value": "ARCANE BOT IS WORKING AND READY TO SERVE YOU MASTER",
       "required": false
     },
     "ALIVE_PHOTTO": {
-      "description": "put here any telegraph media link use .arcane to show.",
+      "description": "put here any telegraph media link use .alive to show.",
       "value": "https://telegra.ph/file/91d386b1f7db6c76abf80.jpg",
       "required": false
     },
@@ -111,7 +111,7 @@
       "required": false
     },
     "GIT_REPO_NAME": {
-      "description": "Your repo name Example: madboy482/ULTRA-X , but GITHUB_ACCESS_TOKEN must be setup first.",
+      "description": "Your repo name Example: Arcane120/ARCANE-USERBOT , but GITHUB_ACCESS_TOKEN must be setup first.",
       "value": "",
       "required": false
     },
@@ -178,7 +178,7 @@
       "required": false 
     },
     "SUDO_USERS": {
-      "description": "Allow others to use your bot.(give sudo to trusted people only)... ",
+      "description": "Allow others to use your bot. give sudo to trusted people only... ",
       "value": "",
       "required": false 
     },
