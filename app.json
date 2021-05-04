@@ -186,7 +186,7 @@
       "description": "custom trigger for SUDO_USERS, eg: like . , / ; ' * ... ",
       "value": "",
       "required": false 
-    },
+    }
   },
   "addons": [
     {
