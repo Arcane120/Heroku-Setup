@@ -176,17 +176,17 @@
       "description": "Type DISABLE if you want to disable pm protection... ",
       "value": "ENABLE",
       "required": false 
-    }
+    },
     "SUDO_USERS": {
       "description": "Allow others to use your bot.(give sudo to trusted people only)... ",
       "value": "",
       "required": false 
-    }
+    },
     "SUDO_COMMAND_HAND_LER": {
       "description": "custom trigger for SUDO_USERS, eg: like . , / ; ' * ... ",
       "value": "",
       "required": false 
-    }
+    },
   },
   "addons": [
     {
